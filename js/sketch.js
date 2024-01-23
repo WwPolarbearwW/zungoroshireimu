@@ -909,17 +909,17 @@ sprite= new Sprite(1190,640);
 	zunda.image="./assets/ずんだもん.png"
 
 
-	sprite = new Sprite(20,700);
-	sprite.width = 10;
-	sprite.height = 10;
-	sprite.collider = 'static';
-	sprite.image="./assets/fb_coin.png"
+	// sprite = new Sprite(20,700);
+	// sprite.width = 10;
+	// sprite.height = 10;
+	// sprite.collider = 'static';
+	// sprite.image="./assets/fb_coin.png"
 
-	sprite = new Sprite(135,700);
-	sprite.width = 10;
-	sprite.height = 10;
-	sprite.collider = 'static';
-	sprite.image="./assets/fb_coin.png"
+	// sprite = new Sprite(135,700);
+	// sprite.width = 10;
+	// sprite.height = 10;
+	// sprite.collider = 'static';
+	// sprite.image="./assets/fb_coin.png"
 
 
 	
